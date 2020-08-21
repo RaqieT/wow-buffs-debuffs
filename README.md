@@ -1,2 +1,2 @@
-# wotlk-buffs-debuffs
+# WoW Buffs - Debuffs
 Select branch for desired expansion.
